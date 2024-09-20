@@ -3,7 +3,7 @@
 [![Kusk24's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kusk24)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kusk24)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🌱 I’m currently learning advanced Swift concepts and MapKit integration.
+- 🌱 I’m currently learning advanced Swift concepts .
 
 <!--
 
