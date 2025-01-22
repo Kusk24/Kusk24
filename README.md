@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Kusk24)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kusk24&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kusk&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kusk24&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 I’m currently learning advanced Swift concepts .
 
